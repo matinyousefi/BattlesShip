@@ -1,0 +1,14 @@
+{
+  "username": "Player1",
+  "password": [
+    "p",
+    "a",
+    "s",
+    "s"
+  ],
+  "lostCount": 0,
+  "winCount": 0,
+  "AuthToken": {
+    "authToken": -854664629
+  }
+}

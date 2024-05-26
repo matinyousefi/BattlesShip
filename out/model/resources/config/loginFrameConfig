@@ -1,0 +1,7 @@
+#This file graphical stuff.
+width=300
+inputPaneHeight=200
+usernameLabelX=10
+usernameLabelY=10
+usernameFieldX=100
+usernameFieldY=10
