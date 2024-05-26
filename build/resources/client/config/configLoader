@@ -1,4 +1,0 @@
-#This file contains the paths to other config files and some other initial configs.
-#
-gameConfig=src/client/resources/config/gameConfig
-loginFrameConfig=src/client/resources/config/loginFrameConfig
